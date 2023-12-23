@@ -1,0 +1,9 @@
+Electronics, Laptop, 799.99, 10, Dell, Inspiron 15
+Electronics, Smartphone, 499.99, 15, Apple, Samsung 1
+Electronics, Smart TV, 699.99, 5, Samsung, 4K UHD
+Books, The Great Gatsby, 12.99, 20, F. Scott Fitzgerald, Fiction, 9783161484100
+Books, To Kill a Mockingbird, 10.99, 25, Harper Lee, Fiction, 9780061120084
+Books, The Catcher in the Rye, 14.99, 18, J.D. Salinger, Fiction, 9780316769480
+Clothing, T-Shirt, 19.99, 50, Medium, Blue, Cotton
+Clothing, Jeans, 39.99, 30, Large, Black, Denim
+Clothing, Dress, 49.99, 25, Small, Red, Silk
